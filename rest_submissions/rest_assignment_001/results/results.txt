@@ -1,8 +1,0 @@
-Tests ran at 30 Apr 09 27 PM
-
-0 tests passed out of 0 tests.
-
-
-
-Errors: 0 errors
-
